@@ -5,9 +5,11 @@
       1) Создаём и активируем виртуальное окружение venv
       $python3 -m venv venv 
       $source venv/bin/activate
-(venv)$python3 e631_7_5.py
       2) Устанавливаем зависимости, т.е. дополнительные пакеты
-(venv)$pip install -r requirements.txt    
-
+      (venv)$pip install -r requirements.txt    
+      3) После успешной установки запускаем приложение
+      (venv)$python3 e631_7_5.py
+      4) Открываем окно браузера, введя адрес
+      
 
 # systMonitor
