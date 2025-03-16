@@ -13,7 +13,12 @@ import datetime as dttime
 from datetime import datetime
 import sys
 from sqlalchemy import create_engine, Column, Integer,String, Table, text
+<<<<<<< HEAD
 from sqlalchemy.orm import sessionmaker, DeclarativeBase
+=======
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy.ext.declarative import declarative_base
+>>>>>>> 3d6a853c39fac0d3e76435854c2d14e1f8d09ba0
 from sqlalchemy.exc import SQLAlchemyError
 
 # Define fixed-size lists (deque) to store the last 16 data points for RAM, CPU, Disk usage, and time
@@ -70,8 +75,12 @@ def stopwatch():
 #        return elapsed_time
     return getdelay
 
+<<<<<<< HEAD
 class Base(DeclarativeBase):pass
 
+=======
+Base=declarative_base()
+>>>>>>> 3d6a853c39fac0d3e76435854c2d14e1f8d09ba0
 class Frame(Base):
   __tablename__='current_data'
   id=Column(Integer, primary_key=True)
