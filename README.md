@@ -28,13 +28,7 @@ Ubuntu 20.04,
 колонку Frame.  
 После нажатия на кнопку "STOP", рядом появится белая кнопка "Done" и окошко таймера. При нажатии на неё  
 третья таблица будет заполнена значениями последнего сформированного фрагмента.
-
-\[!\[Посмотреть видео\] (https://raw.githubusercontent.com/DIXINB/systMonitor/main/assets/Screenshot.png) \]
-(https://raw.githubusercontent.com/DIXINB/systMonitor/main/assets/syst_monitor.mp4)
-
-     
-   
-
-### https://github.com/user-attachments/assets/dab76a4e-f4c1-4caa-bb1f-7f6bd80e397d
+ 
+https://github.com/user-attachments/assets/dab76a4e-f4c1-4caa-bb1f-7f6bd80e397d
 
 
