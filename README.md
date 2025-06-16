@@ -29,8 +29,7 @@ Ubuntu 20.04,
 После нажатия на кнопку "STOP", рядом появится белая кнопка "Done" и окошко таймера. При нажатии на неё  
 третья таблица будет заполнена значениями последнего сформированного фрагмента.
 
-\[!\[Посмотреть видео\]
-(https://raw.githubusercontent.com/DIXINB/systMonitor/main/Screenshot.png)
+\[!\[Посмотреть видео (https://raw.githubusercontent.com/DIXINB/systMonitor/main/Screenshot.png) \]
 (https://raw.githubusercontent.com/DIXINB/systMonitor/main/syst_monitor.mp4)
 
      
