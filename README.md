@@ -30,7 +30,7 @@ Ubuntu 20.04,
 третья таблица будет заполнена значениями последнего сформированного фрагмента.
 
 \[!\[Посмотреть видео\]
-(https://raw.githubusercontent.com/DIXINB/systMonitor/main/Screenshot.png)\]
+(https://raw.githubusercontent.com/DIXINB/systMonitor/main/Screenshot.png)
 (https://raw.githubusercontent.com/DIXINB/systMonitor/main/syst_monitor.mp4)
 
      
